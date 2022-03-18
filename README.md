@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @derickpg
+- 👀 I’m interested in Devops and automation
+- 🌱 I’m currently learning Ansible, Docker and Terraform
+- 📫 How to reach me garcezderick@gmail.com
