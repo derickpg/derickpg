@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @derickpg
-- 👀 I’m interested in Devops and automation
-- 🌱 I’m currently learning Ansible, Docker and Terraform
-- 📫 How to reach me garcezderick@gmail.com
+- 👀 I’m interested in automation and programming;
+- 🌱 I’m currently learning Java, JavaScript and HTML;
+- 📫 How to reach me garcezderick@gmail.com;
+- :rugby_football: I’m rugby player in Charrua Rugby Clube;
+- :office: https://www.linkedin.com/in/derickpgarcez/
